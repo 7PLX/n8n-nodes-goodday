@@ -1,6 +1,6 @@
 {
   "name": "@7plx/n8n-nodes-goodday",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "n8n node for the GoodDay (goodday.work) project management tool",
   "license": "MIT",
   "homepage": "",
