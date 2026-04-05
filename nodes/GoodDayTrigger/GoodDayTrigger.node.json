@@ -1,0 +1,18 @@
+{
+  "node": "@7plx/n8n-nodes-goodday.goodDayTrigger",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": ["Project Management", "Trigger"],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://www.goodday.work/developers/api-v2/webhooks"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://www.goodday.work/developers/api-v2/connect"
+      }
+    ]
+  }
+}
